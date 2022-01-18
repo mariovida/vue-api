@@ -1,4 +1,4 @@
-# hello-world
+# Vue API project for printing employee's informations
 
 ## Project setup
 ```
